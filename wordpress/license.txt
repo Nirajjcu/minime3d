@@ -1,5 +1,9 @@
 pritpal WordPress - Web publishing software ravinder
 
+
+this is edited by pranathi gade. 
+this is test.
+
 Copyright 2016 by the contributors
 
 This program is free software; you can redistribute it and/or modify

@@ -1,13 +1,5 @@
 <?php
-/** 
-
-
-
-
- * This file has been amended by Niraj Budhathoki.
-
- :
-
+/**
  * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the

@@ -11,7 +11,7 @@
 					//var vidId = prompt("YouTube Video", "Enter the id or url for your video");
 					//var m = idPattern.exec(vidId);
 					//if (m != null && m != 'undefined')
-						ed.execCommand('mceInsertContent', false, '[spacer height="20px"]');
+						ed.execCommand('mceInsertContent', false, '[spacer height="default"]');
 				}
 			});
 		},

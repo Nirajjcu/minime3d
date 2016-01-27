@@ -1,12 +1,6 @@
-pritpal WordPress - Web publishing software ravinder
-
-
-this is edited by pranathi gade. 
-this is test.
+WordPress - Web publishing software
 
 Copyright 2016 by the contributors
-
-This changes is made by ravinder singh gill.
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
